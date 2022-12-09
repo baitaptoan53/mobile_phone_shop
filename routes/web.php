@@ -20,7 +20,7 @@ use App\Http\Controllers\SpecialController;
 |
 */
 
-Route::get('/', action: [HomeController::class, 'index'])->name('welcome');
+Route::get('/', action: [HomeController::class, 'index'])->name('index');
 Route::get('/about', action: [AboutController::class, 'index'])->name('about');
 Route::get('/contact', action: [ContactController::class, 'index'])->name('contact');
 Route::get('/brand', action: [BrandController::class, 'index'])->name('brand');
