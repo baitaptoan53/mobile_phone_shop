@@ -5,11 +5,10 @@
                                <img class="first-slide" src="images/banner.jpg" alt="First slide">
                                <div class="container">
                                    <div class="carousel-caption relative">
-                                       <span>All New Phones </span>
-                                       <h1>up to 25% Flat Sale</h1>
-                                       <p>It is a long established fact that a reader will be distracted by the readable content
-                                           <br> of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
-                                       <a class="buynow" href="#">Buy Now</a>
+                                       <span>Hàng cũ mà mới</span>
+                                       <h1>Khuyến Mãi lên tới 25%</h1>
+                                       <p>Nguồn gốc rõ ràng | Chất lượng đảm bảo </br> Bảo hành lên đến 12 tháng</p>
+                                       <a class="buynow" href="#">Mua Ngay</a>
                                        <ul class="social_icon">
                                            <li> <a href="#"><i class="fa fa-facebook-f"></i></a></li>
                                            <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -22,11 +21,10 @@
                                <img class="second-slide" src="images/banner.jpg" alt="Second slide">
                                <div class="container">
                                    <div class="carousel-caption relative">
-                                       <span>All New Phones </span>
-                                       <h1>up to 25% Flat Sale</h1>
-                                       <p>It is a long established fact that a reader will be distracted by the readable content
-                                           <br> of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
-                                       <a class="buynow" href="#">Buy Now</a>
+                                    <span>Hàng cũ mà mới</span>
+                                       <h1>Khuyến Mãi lên tới 25%</h1>
+                                       <p>Nguồn gốc rõ ràng | Chất lượng đảm bảo </br> Bảo hành lên đến 12 tháng</p>
+                                       <a class="buynow" href="#">Mua ngay</a>
                                        <ul class="social_icon">
                                            <li> <a href="#"><i class="fa fa-facebook-f"></i></a></li>
                                            <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
